@@ -7,6 +7,8 @@ from dotenv import load_dotenv
 from game.logic import evaluate_guess
 from ui.embeds import build_wordle_embed
 from utils.helpers import convert_to_year
+from ui.game_buttons import GameActionView, GameEndView
+
 
 load_dotenv()
 TOKEN = os.getenv("BOT_TOKEN")
@@ -26,9 +28,6 @@ CHAMPION_NAMES = sorted(c["championName"] for c in CHAMPS)
 
 sessions = {}
 
-# ======================
-# AUTOCOMPLETE
-# ======================
 async def champion_autocomplete(
     interaction: discord.Interaction,
     current: str,
@@ -44,9 +43,24 @@ async def champion_autocomplete(
         for name in matches
     ]
 
+async def start_new_game(interaction: discord.Interaction):
+    champ = random.choice(CHAMPS)
+    sessions[interaction.user.id] = {
+        "answer": champ,
+        "tries": 0
+    }
+
+    await interaction.response.send_message(
+        "**🎮 LoLdle bắt đầu game mới!**\nDùng `/guess <tên tướng>` để đoán.",
+        ephemeral=True
+    )
+
+
 # ======================
 # EVENTS
 # ======================
+
+
 @bot.event
 async def on_ready():
     print(f"Logged in as {bot.user}")
@@ -57,15 +71,8 @@ async def on_ready():
 # ======================
 @bot.tree.command(name="loldle_start", description="Bắt đầu game LoLdle")
 async def start(interaction: discord.Interaction):
-    sessions[interaction.user.id] = {
-        "answer": random.choice(CHAMPS),
-        "tries": 0
-    }
+    await start_new_game(interaction)
 
-    await interaction.response.send_message(
-        "**LoLdle bắt đầu!**\nDùng `/guess <tên tướng>`",
-        ephemeral=True
-    )
 
 @bot.tree.command(name="guess", description="Đoán tướng")
 @app_commands.autocomplete(name=champion_autocomplete)
@@ -98,20 +105,36 @@ async def guess(interaction: discord.Interaction, name: str):
     # WIN
     if guess["championName"] == answer["championName"]:
         del sessions[user_id]
-        embed.title = "Onii-chan giỏi quá!!!"
-        embed.title = f"🎉 {answer['championName']} 🎉"
+        embed.title = f"Onii-chan giỏi quá!!!, đáp án là **{answer['championName']}"
         embed.color = discord.Color.green()
-        await interaction.response.send_message(embed=embed)
+        await interaction.followup.send(
+            embed=embed,
+            view=GameEndView(
+                interaction.user.id,
+                start_new_game
+            )
+        )
         return
 
     # LOSE
     if session["tries"] >= 10:
         del sessions[user_id]
-        await interaction.response.send_message(
-            f"Gà điên, đáp án là **{answer['championName']}**"
+        await interaction.followup.send(
+            f"Gà điên, đáp án là **{answer['championName']}**",
+            view=GameEndView(
+                interaction.user.id,
+                start_new_game
+            )
         )
         return
 
-    await interaction.response.send_message(embed=embed)
+    await interaction.response.send_message(
+        embed=embed,
+        view=GameActionView(
+            interaction.user.id,
+            sessions,
+            start_new_game
+        )
+    )
 
 bot.run(TOKEN)
