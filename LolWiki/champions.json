@@ -1,0 +1,2409 @@
+[
+    {
+        "name": "Aatrox",
+        "roles": [
+            "Top"
+        ],
+        "release_year": "2013",
+        "legacy_class": [
+            "Fighter",
+            "Tank"
+        ],
+        "resource": "Manaless",
+        "range_type": "Melee",
+        "adaptive_type": "Physical"
+    },
+    {
+        "name": "Ahri",
+        "roles": [
+            "Middle"
+        ],
+        "release_year": "2011",
+        "legacy_class": [
+            "Mage",
+            "Assassin"
+        ],
+        "resource": "Mana",
+        "range_type": "Ranged",
+        "adaptive_type": "Magic"
+    },
+    {
+        "name": "Akali",
+        "roles": [
+            "Top",
+            "Middle"
+        ],
+        "release_year": "2010",
+        "legacy_class": [
+            "Assassin"
+        ],
+        "resource": "Energy",
+        "range_type": "Melee",
+        "adaptive_type": "Physical"
+    },
+    {
+        "name": "Akshan",
+        "roles": [
+            "Middle"
+        ],
+        "release_year": "2021",
+        "legacy_class": [
+            "Marksman",
+            "Assassin"
+        ],
+        "resource": "Mana",
+        "range_type": "Ranged",
+        "adaptive_type": "Physical"
+    },
+    {
+        "name": "Alistar",
+        "roles": [
+            "Support"
+        ],
+        "release_year": "2009",
+        "legacy_class": [
+            "Tank",
+            "Support"
+        ],
+        "resource": "Mana",
+        "range_type": "Melee",
+        "adaptive_type": "Magic"
+    },
+    {
+        "name": "Ambessa",
+        "roles": [
+            "Top"
+        ],
+        "release_year": "2024",
+        "legacy_class": [
+            "Fighter",
+            "Assassin"
+        ],
+        "resource": "Energy",
+        "range_type": "Melee",
+        "adaptive_type": "Physical"
+    },
+    {
+        "name": "Amumu",
+        "roles": [
+            "Jungle"
+        ],
+        "release_year": "2009",
+        "legacy_class": [
+            "Tank",
+            "Support"
+        ],
+        "resource": "Mana",
+        "range_type": "Melee",
+        "adaptive_type": "Magic"
+    },
+    {
+        "name": "Anivia",
+        "roles": [
+            "Middle"
+        ],
+        "release_year": "2009",
+        "legacy_class": [
+            "Mage",
+            "Support"
+        ],
+        "resource": "Mana",
+        "range_type": "Ranged",
+        "adaptive_type": "Magic"
+    },
+    {
+        "name": "Annie",
+        "roles": [
+            "Middle"
+        ],
+        "release_year": "2009",
+        "legacy_class": [
+            "Mage",
+            "Support"
+        ],
+        "resource": "Mana",
+        "range_type": "Ranged",
+        "adaptive_type": "Magic"
+    },
+    {
+        "name": "Aphelios",
+        "roles": [
+            "Bottom"
+        ],
+        "release_year": "2019",
+        "legacy_class": [
+            "Marksman"
+        ],
+        "resource": "Mana",
+        "range_type": "Ranged",
+        "adaptive_type": "Physical"
+    },
+    {
+        "name": "Ashe",
+        "roles": [
+            "Bottom",
+            "Support"
+        ],
+        "release_year": "2009",
+        "legacy_class": [
+            "Marksman",
+            "Support"
+        ],
+        "resource": "Mana",
+        "range_type": "Ranged",
+        "adaptive_type": "Physical"
+    },
+    {
+        "name": "Aurelion Sol",
+        "roles": [
+            "Middle"
+        ],
+        "release_year": "2016",
+        "legacy_class": [
+            "Mage"
+        ],
+        "resource": "Mana",
+        "range_type": "Ranged",
+        "adaptive_type": "Magic"
+    },
+    {
+        "name": "Aurora",
+        "roles": [
+            "Middle",
+            "Top"
+        ],
+        "release_year": "2024",
+        "legacy_class": [
+            "Mage",
+            "Assassin"
+        ],
+        "resource": "Mana",
+        "range_type": "Ranged",
+        "adaptive_type": "Magic"
+    },
+    {
+        "name": "Azir",
+        "roles": [
+            "Middle"
+        ],
+        "release_year": "2014",
+        "legacy_class": [
+            "Mage",
+            "Marksman"
+        ],
+        "resource": "Mana",
+        "range_type": "Ranged",
+        "adaptive_type": "Magic"
+    },
+    {
+        "name": "Bard",
+        "roles": [
+            "Support"
+        ],
+        "release_year": "2015",
+        "legacy_class": [
+            "Support",
+            "Mage"
+        ],
+        "resource": "Mana",
+        "range_type": "Ranged",
+        "adaptive_type": "Magic"
+    },
+    {
+        "name": "Bel'Veth",
+        "roles": [
+            "Jungle"
+        ],
+        "release_year": "2022",
+        "legacy_class": [
+            "Fighter"
+        ],
+        "resource": "Manaless",
+        "range_type": "Melee",
+        "adaptive_type": "Physical"
+    },
+    {
+        "name": "Blitzcrank",
+        "roles": [
+            "Support"
+        ],
+        "release_year": "2009",
+        "legacy_class": [
+            "Tank",
+            "Support"
+        ],
+        "resource": "Mana",
+        "range_type": "Melee",
+        "adaptive_type": "Physical"
+    },
+    {
+        "name": "Brand",
+        "roles": [
+            "Jungle",
+            "Support"
+        ],
+        "release_year": "2011",
+        "legacy_class": [
+            "Mage",
+            "Support"
+        ],
+        "resource": "Mana",
+        "range_type": "Ranged",
+        "adaptive_type": "Magic"
+    },
+    {
+        "name": "Braum",
+        "roles": [
+            "Support"
+        ],
+        "release_year": "2014",
+        "legacy_class": [
+            "Tank",
+            "Support"
+        ],
+        "resource": "Mana",
+        "range_type": "Melee",
+        "adaptive_type": "Magic"
+    },
+    {
+        "name": "Briar",
+        "roles": [
+            "Jungle"
+        ],
+        "release_year": "2023",
+        "legacy_class": [
+            "Fighter",
+            "Assassin"
+        ],
+        "resource": "Frenzy",
+        "range_type": "Melee",
+        "adaptive_type": "Physical"
+    },
+    {
+        "name": "Caitlyn",
+        "roles": [
+            "Bottom"
+        ],
+        "release_year": "2011",
+        "legacy_class": [
+            "Marksman"
+        ],
+        "resource": "Mana",
+        "range_type": "Ranged",
+        "adaptive_type": "Physical"
+    },
+    {
+        "name": "Camille",
+        "roles": [
+            "Top"
+        ],
+        "release_year": "2016",
+        "legacy_class": [
+            "Fighter",
+            "Assassin"
+        ],
+        "resource": "Mana",
+        "range_type": "Melee",
+        "adaptive_type": "Physical"
+    },
+    {
+        "name": "Cassiopeia",
+        "roles": [
+            "Middle"
+        ],
+        "release_year": "2010",
+        "legacy_class": [
+            "Mage"
+        ],
+        "resource": "Mana",
+        "range_type": "Ranged",
+        "adaptive_type": "Magic"
+    },
+    {
+        "name": "Cho'Gath",
+        "roles": [
+            "Top"
+        ],
+        "release_year": "2009",
+        "legacy_class": [
+            "Tank",
+            "Mage"
+        ],
+        "resource": "Mana",
+        "range_type": "Melee",
+        "adaptive_type": "Magic"
+    },
+    {
+        "name": "Corki",
+        "roles": [
+            "Middle"
+        ],
+        "release_year": "2009",
+        "legacy_class": [
+            "Marksman",
+            "Mage"
+        ],
+        "resource": "Mana",
+        "range_type": "Ranged",
+        "adaptive_type": "Physical"
+    },
+    {
+        "name": "Darius",
+        "roles": [
+            "Top"
+        ],
+        "release_year": "2012",
+        "legacy_class": [
+            "Fighter",
+            "Tank"
+        ],
+        "resource": "Mana",
+        "range_type": "Melee",
+        "adaptive_type": "Physical"
+    },
+    {
+        "name": "Diana",
+        "roles": [
+            "Jungle",
+            "Middle"
+        ],
+        "release_year": "2012",
+        "legacy_class": [
+            "Fighter",
+            "Assassin"
+        ],
+        "resource": "Mana",
+        "range_type": "Melee",
+        "adaptive_type": "Magic"
+    },
+    {
+        "name": "Dr. Mundo",
+        "roles": [
+            "Top"
+        ],
+        "release_year": "2009",
+        "legacy_class": [
+            "Tank",
+            "Fighter"
+        ],
+        "resource": "Health costs",
+        "range_type": "Melee",
+        "adaptive_type": "Physical"
+    },
+    {
+        "name": "Draven",
+        "roles": [
+            "Bottom"
+        ],
+        "release_year": "2012",
+        "legacy_class": [
+            "Marksman"
+        ],
+        "resource": "Mana",
+        "range_type": "Ranged",
+        "adaptive_type": "Physical"
+    },
+    {
+        "name": "Ekko",
+        "roles": [
+            "Jungle",
+            "Middle"
+        ],
+        "release_year": "2015",
+        "legacy_class": [
+            "Assassin",
+            "Mage"
+        ],
+        "resource": "Mana",
+        "range_type": "Melee",
+        "adaptive_type": "Magic"
+    },
+    {
+        "name": "Elise",
+        "roles": [
+            "Jungle"
+        ],
+        "release_year": "2012",
+        "legacy_class": [
+            "Assassin",
+            "Mage"
+        ],
+        "resource": "Mana",
+        "range_type": "Ranged",
+        "adaptive_type": "Magic"
+    },
+    {
+        "name": "Evelynn",
+        "roles": [
+            "Jungle"
+        ],
+        "release_year": "2009",
+        "legacy_class": [
+            "Assassin",
+            "Mage"
+        ],
+        "resource": "Mana",
+        "range_type": "Melee",
+        "adaptive_type": "Magic"
+    },
+    {
+        "name": "Ezreal",
+        "roles": [
+            "Bottom"
+        ],
+        "release_year": "2010",
+        "legacy_class": [
+            "Marksman",
+            "Mage"
+        ],
+        "resource": "Mana",
+        "range_type": "Ranged",
+        "adaptive_type": "Physical"
+    },
+    {
+        "name": "Fiddlesticks",
+        "roles": [
+            "Jungle"
+        ],
+        "release_year": "2009",
+        "legacy_class": [
+            "Mage",
+            "Support"
+        ],
+        "resource": "Mana",
+        "range_type": "Ranged",
+        "adaptive_type": "Magic"
+    },
+    {
+        "name": "Fiora",
+        "roles": [
+            "Top"
+        ],
+        "release_year": "2012",
+        "legacy_class": [
+            "Fighter",
+            "Assassin"
+        ],
+        "resource": "Mana",
+        "range_type": "Melee",
+        "adaptive_type": "Physical"
+    },
+    {
+        "name": "Fizz",
+        "roles": [
+            "Middle"
+        ],
+        "release_year": "2011",
+        "legacy_class": [
+            "Assassin",
+            "Fighter"
+        ],
+        "resource": "Mana",
+        "range_type": "Melee",
+        "adaptive_type": "Magic"
+    },
+    {
+        "name": "Galio",
+        "roles": [
+            "Middle"
+        ],
+        "release_year": "2010",
+        "legacy_class": [
+            "Tank",
+            "Mage"
+        ],
+        "resource": "Mana",
+        "range_type": "Melee",
+        "adaptive_type": "Magic"
+    },
+    {
+        "name": "Gangplank",
+        "roles": [
+            "Top"
+        ],
+        "release_year": "2009",
+        "legacy_class": [
+            "Fighter"
+        ],
+        "resource": "Mana",
+        "range_type": "Melee",
+        "adaptive_type": "Physical"
+    },
+    {
+        "name": "Garen",
+        "roles": [
+            "Top"
+        ],
+        "release_year": "2010",
+        "legacy_class": [
+            "Fighter",
+            "Tank"
+        ],
+        "resource": "Manaless",
+        "range_type": "Melee",
+        "adaptive_type": "Physical"
+    },
+    {
+        "name": "Gnar",
+        "roles": [
+            "Top"
+        ],
+        "release_year": "2014",
+        "legacy_class": [
+            "Fighter",
+            "Tank"
+        ],
+        "resource": "Rage",
+        "range_type": "Melee",
+        "adaptive_type": "Physical"
+    },
+    {
+        "name": "Gragas",
+        "roles": [
+            "Jungle"
+        ],
+        "release_year": "2010",
+        "legacy_class": [
+            "Fighter",
+            "Mage"
+        ],
+        "resource": "Mana",
+        "range_type": "Melee",
+        "adaptive_type": "Magic"
+    },
+    {
+        "name": "Graves",
+        "roles": [
+            "Jungle"
+        ],
+        "release_year": "2011",
+        "legacy_class": [
+            "Marksman"
+        ],
+        "resource": "Mana",
+        "range_type": "Ranged",
+        "adaptive_type": "Physical"
+    },
+    {
+        "name": "Gwen",
+        "roles": [
+            "Top"
+        ],
+        "release_year": "2021",
+        "legacy_class": [
+            "Fighter",
+            "Assassin"
+        ],
+        "resource": "Mana",
+        "range_type": "Melee",
+        "adaptive_type": "Magic"
+    },
+    {
+        "name": "Hecarim",
+        "roles": [
+            "Jungle"
+        ],
+        "release_year": "2012",
+        "legacy_class": [
+            "Fighter",
+            "Tank"
+        ],
+        "resource": "Mana",
+        "range_type": "Melee",
+        "adaptive_type": "Physical"
+    },
+    {
+        "name": "Heimerdinger",
+        "roles": [
+            "Support"
+        ],
+        "release_year": "2009",
+        "legacy_class": [
+            "Mage",
+            "Support"
+        ],
+        "resource": "Mana",
+        "range_type": "Ranged",
+        "adaptive_type": "Magic"
+    },
+    {
+        "name": "Hwei",
+        "roles": [
+            "Middle",
+            "Support"
+        ],
+        "release_year": "2023",
+        "legacy_class": [
+            "Mage",
+            "Support"
+        ],
+        "resource": "Mana",
+        "range_type": "Ranged",
+        "adaptive_type": "Magic"
+    },
+    {
+        "name": "Illaoi",
+        "roles": [
+            "Top"
+        ],
+        "release_year": "2015",
+        "legacy_class": [
+            "Fighter",
+            "Tank"
+        ],
+        "resource": "Mana",
+        "range_type": "Melee",
+        "adaptive_type": "Physical"
+    },
+    {
+        "name": "Irelia",
+        "roles": [
+            "Top",
+            "Middle"
+        ],
+        "release_year": "2010",
+        "legacy_class": [
+            "Fighter",
+            "Assassin"
+        ],
+        "resource": "Mana",
+        "range_type": "Melee",
+        "adaptive_type": "Physical"
+    },
+    {
+        "name": "Ivern",
+        "roles": [
+            "Jungle"
+        ],
+        "release_year": "2016",
+        "legacy_class": [
+            "Support",
+            "Mage"
+        ],
+        "resource": "Mana",
+        "range_type": "Ranged",
+        "adaptive_type": "Magic"
+    },
+    {
+        "name": "Janna",
+        "roles": [
+            "Support"
+        ],
+        "release_year": "2009",
+        "legacy_class": [
+            "Support",
+            "Mage"
+        ],
+        "resource": "Mana",
+        "range_type": "Ranged",
+        "adaptive_type": "Magic"
+    },
+    {
+        "name": "Jarvan IV",
+        "roles": [
+            "Jungle"
+        ],
+        "release_year": "2011",
+        "legacy_class": [
+            "Fighter",
+            "Tank"
+        ],
+        "resource": "Mana",
+        "range_type": "Melee",
+        "adaptive_type": "Physical"
+    },
+    {
+        "name": "Jax",
+        "roles": [
+            "Top",
+            "Jungle"
+        ],
+        "release_year": "2009",
+        "legacy_class": [
+            "Fighter",
+            "Assassin"
+        ],
+        "resource": "Mana",
+        "range_type": "Melee",
+        "adaptive_type": "Physical"
+    },
+    {
+        "name": "Jayce",
+        "roles": [
+            "Top"
+        ],
+        "release_year": "2012",
+        "legacy_class": [
+            "Fighter",
+            "Marksman"
+        ],
+        "resource": "Mana",
+        "range_type": "Ranged",
+        "adaptive_type": "Physical"
+    },
+    {
+        "name": "Jhin",
+        "roles": [
+            "Bottom"
+        ],
+        "release_year": "2016",
+        "legacy_class": [
+            "Marksman",
+            "Mage"
+        ],
+        "resource": "Mana",
+        "range_type": "Ranged",
+        "adaptive_type": "Physical"
+    },
+    {
+        "name": "Jinx",
+        "roles": [
+            "Bottom"
+        ],
+        "release_year": "2013",
+        "legacy_class": [
+            "Marksman"
+        ],
+        "resource": "Mana",
+        "range_type": "Ranged",
+        "adaptive_type": "Physical"
+    },
+    {
+        "name": "K'Sante",
+        "roles": [
+            "Top"
+        ],
+        "release_year": "2022",
+        "legacy_class": [
+            "Tank",
+            "Fighter"
+        ],
+        "resource": "Mana",
+        "range_type": "Melee",
+        "adaptive_type": "Physical"
+    },
+    {
+        "name": "Kai'Sa",
+        "roles": [
+            "Bottom"
+        ],
+        "release_year": "2018",
+        "legacy_class": [
+            "Marksman",
+            "Mage"
+        ],
+        "resource": "Mana",
+        "range_type": "Ranged",
+        "adaptive_type": "Magic"
+    },
+    {
+        "name": "Kalista",
+        "roles": [
+            "Bottom"
+        ],
+        "release_year": "2014",
+        "legacy_class": [
+            "Marksman"
+        ],
+        "resource": "Mana",
+        "range_type": "Ranged",
+        "adaptive_type": "Physical"
+    },
+    {
+        "name": "Karma",
+        "roles": [
+            "Middle",
+            "Support"
+        ],
+        "release_year": "2011",
+        "legacy_class": [
+            "Mage",
+            "Support"
+        ],
+        "resource": "Mana",
+        "range_type": "Ranged",
+        "adaptive_type": "Magic"
+    },
+    {
+        "name": "Karthus",
+        "roles": [
+            "Jungle"
+        ],
+        "release_year": "2009",
+        "legacy_class": [
+            "Mage"
+        ],
+        "resource": "Mana",
+        "range_type": "Ranged",
+        "adaptive_type": "Magic"
+    },
+    {
+        "name": "Kassadin",
+        "roles": [
+            "Middle"
+        ],
+        "release_year": "2009",
+        "legacy_class": [
+            "Assassin",
+            "Mage"
+        ],
+        "resource": "Mana",
+        "range_type": "Melee",
+        "adaptive_type": "Magic"
+    },
+    {
+        "name": "Katarina",
+        "roles": [
+            "Middle"
+        ],
+        "release_year": "2009",
+        "legacy_class": [
+            "Assassin",
+            "Mage"
+        ],
+        "resource": "Manaless",
+        "range_type": "Melee",
+        "adaptive_type": "Magic"
+    },
+    {
+        "name": "Kayle",
+        "roles": [
+            "Top"
+        ],
+        "release_year": "2009",
+        "legacy_class": [
+            "Mage",
+            "Marksman"
+        ],
+        "resource": "Mana",
+        "range_type": "Melee",
+        "adaptive_type": "Physical"
+    },
+    {
+        "name": "Kayn",
+        "roles": [
+            "Jungle"
+        ],
+        "release_year": "2017",
+        "legacy_class": [
+            "Fighter",
+            "Assassin"
+        ],
+        "resource": "Mana",
+        "range_type": "Melee",
+        "adaptive_type": "Physical"
+    },
+    {
+        "name": "Kennen",
+        "roles": [
+            "Top"
+        ],
+        "release_year": "2010",
+        "legacy_class": [
+            "Mage",
+            "Marksman"
+        ],
+        "resource": "Energy",
+        "range_type": "Ranged",
+        "adaptive_type": "Magic"
+    },
+    {
+        "name": "Kha'Zix",
+        "roles": [
+            "Jungle"
+        ],
+        "release_year": "2012",
+        "legacy_class": [
+            "Assassin"
+        ],
+        "resource": "Mana",
+        "range_type": "Melee",
+        "adaptive_type": "Physical"
+    },
+    {
+        "name": "Kindred",
+        "roles": [
+            "Jungle"
+        ],
+        "release_year": "2015",
+        "legacy_class": [
+            "Marksman"
+        ],
+        "resource": "Mana",
+        "range_type": "Ranged",
+        "adaptive_type": "Physical"
+    },
+    {
+        "name": "Kled & Skaarl",
+        "roles": [
+            "Top"
+        ],
+        "release_year": "2016",
+        "legacy_class": [
+            "Fighter",
+            "Tank"
+        ],
+        "resource": "Courage",
+        "range_type": "Melee",
+        "adaptive_type": "Physical"
+    },
+    {
+        "name": "Kog'Maw",
+        "roles": [
+            "Bottom"
+        ],
+        "release_year": "2010",
+        "legacy_class": [
+            "Marksman",
+            "Mage"
+        ],
+        "resource": "Mana",
+        "range_type": "Ranged",
+        "adaptive_type": "Physical"
+    },
+    {
+        "name": "LeBlanc",
+        "roles": [
+            "Middle"
+        ],
+        "release_year": "2010",
+        "legacy_class": [
+            "Assassin",
+            "Mage"
+        ],
+        "resource": "Mana",
+        "range_type": "Ranged",
+        "adaptive_type": "Magic"
+    },
+    {
+        "name": "Lee Sin",
+        "roles": [
+            "Jungle"
+        ],
+        "release_year": "2011",
+        "legacy_class": [
+            "Fighter",
+            "Assassin"
+        ],
+        "resource": "Energy",
+        "range_type": "Melee",
+        "adaptive_type": "Physical"
+    },
+    {
+        "name": "Leona",
+        "roles": [
+            "Support"
+        ],
+        "release_year": "2011",
+        "legacy_class": [
+            "Tank",
+            "Support"
+        ],
+        "resource": "Mana",
+        "range_type": "Melee",
+        "adaptive_type": "Physical"
+    },
+    {
+        "name": "Lillia",
+        "roles": [
+            "Jungle"
+        ],
+        "release_year": "2020",
+        "legacy_class": [
+            "Fighter",
+            "Mage"
+        ],
+        "resource": "Mana",
+        "range_type": "Melee",
+        "adaptive_type": "Magic"
+    },
+    {
+        "name": "Lissandra",
+        "roles": [
+            "Middle"
+        ],
+        "release_year": "2013",
+        "legacy_class": [
+            "Mage"
+        ],
+        "resource": "Mana",
+        "range_type": "Ranged",
+        "adaptive_type": "Magic"
+    },
+    {
+        "name": "Lucian",
+        "roles": [
+            "Bottom"
+        ],
+        "release_year": "2013",
+        "legacy_class": [
+            "Marksman",
+            "Assassin"
+        ],
+        "resource": "Mana",
+        "range_type": "Ranged",
+        "adaptive_type": "Physical"
+    },
+    {
+        "name": "Lulu",
+        "roles": [
+            "Support"
+        ],
+        "release_year": "2012",
+        "legacy_class": [
+            "Support",
+            "Mage"
+        ],
+        "resource": "Mana",
+        "range_type": "Ranged",
+        "adaptive_type": "Magic"
+    },
+    {
+        "name": "Lux",
+        "roles": [
+            "Middle",
+            "Support"
+        ],
+        "release_year": "2010",
+        "legacy_class": [
+            "Mage",
+            "Support"
+        ],
+        "resource": "Mana",
+        "range_type": "Ranged",
+        "adaptive_type": "Magic"
+    },
+    {
+        "name": "Malphite",
+        "roles": [
+            "Top"
+        ],
+        "release_year": "2009",
+        "legacy_class": [
+            "Tank",
+            "Mage"
+        ],
+        "resource": "Mana",
+        "range_type": "Melee",
+        "adaptive_type": "Magic"
+    },
+    {
+        "name": "Malzahar",
+        "roles": [
+            "Middle"
+        ],
+        "release_year": "2010",
+        "legacy_class": [
+            "Mage",
+            "Assassin"
+        ],
+        "resource": "Mana",
+        "range_type": "Ranged",
+        "adaptive_type": "Magic"
+    },
+    {
+        "name": "Maokai",
+        "roles": [
+            "Support"
+        ],
+        "release_year": "2011",
+        "legacy_class": [
+            "Tank",
+            "Support"
+        ],
+        "resource": "Mana",
+        "range_type": "Melee",
+        "adaptive_type": "Magic"
+    },
+    {
+        "name": "Master Yi",
+        "roles": [
+            "Jungle"
+        ],
+        "release_year": "2009",
+        "legacy_class": [
+            "Fighter",
+            "Assassin"
+        ],
+        "resource": "Mana",
+        "range_type": "Melee",
+        "adaptive_type": "Physical"
+    },
+    {
+        "name": "Mel",
+        "roles": [
+            "Middle",
+            "Support"
+        ],
+        "release_year": "2025",
+        "legacy_class": [
+            "Mage",
+            "Support"
+        ],
+        "resource": "Mana",
+        "range_type": "Ranged",
+        "adaptive_type": "Magic"
+    },
+    {
+        "name": "Milio",
+        "roles": [
+            "Support"
+        ],
+        "release_year": "2023",
+        "legacy_class": [
+            "Support",
+            "Mage"
+        ],
+        "resource": "Mana",
+        "range_type": "Ranged",
+        "adaptive_type": "Magic"
+    },
+    {
+        "name": "Miss Fortune",
+        "roles": [
+            "Bottom"
+        ],
+        "release_year": "2010",
+        "legacy_class": [
+            "Marksman",
+            "Mage"
+        ],
+        "resource": "Mana",
+        "range_type": "Ranged",
+        "adaptive_type": "Physical"
+    },
+    {
+        "name": "Mordekaiser",
+        "roles": [
+            "Top"
+        ],
+        "release_year": "2010",
+        "legacy_class": [
+            "Fighter",
+            "Mage"
+        ],
+        "resource": "Shield",
+        "range_type": "Melee",
+        "adaptive_type": "Magic"
+    },
+    {
+        "name": "Morgana",
+        "roles": [
+            "Support",
+            "Middle"
+        ],
+        "release_year": "2009",
+        "legacy_class": [
+            "Support",
+            "Mage"
+        ],
+        "resource": "Mana",
+        "range_type": "Ranged",
+        "adaptive_type": "Magic"
+    },
+    {
+        "name": "Naafiri",
+        "roles": [
+            "Middle"
+        ],
+        "release_year": "2023",
+        "legacy_class": [
+            "Assassin",
+            "Fighter"
+        ],
+        "resource": "Mana",
+        "range_type": "Melee",
+        "adaptive_type": "Physical"
+    },
+    {
+        "name": "Nami",
+        "roles": [
+            "Support"
+        ],
+        "release_year": "2012",
+        "legacy_class": [
+            "Support",
+            "Mage"
+        ],
+        "resource": "Mana",
+        "range_type": "Ranged",
+        "adaptive_type": "Magic"
+    },
+    {
+        "name": "Nasus",
+        "roles": [
+            "Top"
+        ],
+        "release_year": "2009",
+        "legacy_class": [
+            "Fighter",
+            "Tank"
+        ],
+        "resource": "Mana",
+        "range_type": "Melee",
+        "adaptive_type": "Physical"
+    },
+    {
+        "name": "Nautilus",
+        "roles": [
+            "Support"
+        ],
+        "release_year": "2012",
+        "legacy_class": [
+            "Tank",
+            "Support"
+        ],
+        "resource": "Mana",
+        "range_type": "Melee",
+        "adaptive_type": "Magic"
+    },
+    {
+        "name": "Neeko",
+        "roles": [
+            "Middle",
+            "Support"
+        ],
+        "release_year": "2018",
+        "legacy_class": [
+            "Mage",
+            "Support"
+        ],
+        "resource": "Mana",
+        "range_type": "Ranged",
+        "adaptive_type": "Magic"
+    },
+    {
+        "name": "Nidalee",
+        "roles": [
+            "Jungle"
+        ],
+        "release_year": "2009",
+        "legacy_class": [
+            "Assassin",
+            "Mage"
+        ],
+        "resource": "Mana",
+        "range_type": "Ranged",
+        "adaptive_type": "Magic"
+    },
+    {
+        "name": "Nilah",
+        "roles": [
+            "Bottom"
+        ],
+        "release_year": "2022",
+        "legacy_class": [
+            "Fighter",
+            "Assassin"
+        ],
+        "resource": "Mana",
+        "range_type": "Melee",
+        "adaptive_type": "Physical"
+    },
+    {
+        "name": "Nocturne",
+        "roles": [
+            "Jungle"
+        ],
+        "release_year": "2011",
+        "legacy_class": [
+            "Fighter",
+            "Assassin"
+        ],
+        "resource": "Mana",
+        "range_type": "Melee",
+        "adaptive_type": "Physical"
+    },
+    {
+        "name": "Nunu & Willump",
+        "roles": [
+            "Jungle"
+        ],
+        "release_year": "2009",
+        "legacy_class": [
+            "Tank",
+            "Mage"
+        ],
+        "resource": "Mana",
+        "range_type": "Melee",
+        "adaptive_type": "Magic"
+    },
+    {
+        "name": "Olaf",
+        "roles": [
+            "Top"
+        ],
+        "release_year": "2010",
+        "legacy_class": [
+            "Fighter",
+            "Tank"
+        ],
+        "resource": "Mana",
+        "range_type": "Melee",
+        "adaptive_type": "Physical"
+    },
+    {
+        "name": "Orianna",
+        "roles": [
+            "Middle"
+        ],
+        "release_year": "2011",
+        "legacy_class": [
+            "Mage",
+            "Support"
+        ],
+        "resource": "Mana",
+        "range_type": "Ranged",
+        "adaptive_type": "Magic"
+    },
+    {
+        "name": "Ornn",
+        "roles": [
+            "Top"
+        ],
+        "release_year": "2017",
+        "legacy_class": [
+            "Tank",
+            "Fighter"
+        ],
+        "resource": "Mana",
+        "range_type": "Melee",
+        "adaptive_type": "Physical"
+    },
+    {
+        "name": "Pantheon",
+        "roles": [
+            "Top",
+            "Support"
+        ],
+        "release_year": "2010",
+        "legacy_class": [
+            "Fighter",
+            "Assassin"
+        ],
+        "resource": "Mana",
+        "range_type": "Melee",
+        "adaptive_type": "Physical"
+    },
+    {
+        "name": "Poppy",
+        "roles": [
+            "Top",
+            "Jungle"
+        ],
+        "release_year": "2010",
+        "legacy_class": [
+            "Tank",
+            "Fighter"
+        ],
+        "resource": "Mana",
+        "range_type": "Melee",
+        "adaptive_type": "Physical"
+    },
+    {
+        "name": "Pyke",
+        "roles": [
+            "Support"
+        ],
+        "release_year": "2018",
+        "legacy_class": [
+            "Support",
+            "Assassin"
+        ],
+        "resource": "Mana",
+        "range_type": "Melee",
+        "adaptive_type": "Physical"
+    },
+    {
+        "name": "Qiyana",
+        "roles": [
+            "Middle"
+        ],
+        "release_year": "2019",
+        "legacy_class": [
+            "Assassin",
+            "Fighter"
+        ],
+        "resource": "Mana",
+        "range_type": "Melee",
+        "adaptive_type": "Physical"
+    },
+    {
+        "name": "Quinn",
+        "roles": [
+            "Top"
+        ],
+        "release_year": "2013",
+        "legacy_class": [
+            "Marksman",
+            "Assassin"
+        ],
+        "resource": "Mana",
+        "range_type": "Ranged",
+        "adaptive_type": "Physical"
+    },
+    {
+        "name": "Rakan",
+        "roles": [
+            "Support"
+        ],
+        "release_year": "2017",
+        "legacy_class": [
+            "Support"
+        ],
+        "resource": "Mana",
+        "range_type": "Melee",
+        "adaptive_type": "Magic"
+    },
+    {
+        "name": "Rammus",
+        "roles": [
+            "Jungle"
+        ],
+        "release_year": "2009",
+        "legacy_class": [
+            "Tank",
+            "Fighter"
+        ],
+        "resource": "Mana",
+        "range_type": "Melee",
+        "adaptive_type": "Physical"
+    },
+    {
+        "name": "Rek'Sai",
+        "roles": [
+            "Jungle"
+        ],
+        "release_year": "2014",
+        "legacy_class": [
+            "Fighter",
+            "Tank"
+        ],
+        "resource": "Rage",
+        "range_type": "Melee",
+        "adaptive_type": "Physical"
+    },
+    {
+        "name": "Rell",
+        "roles": [
+            "Support"
+        ],
+        "release_year": "2020",
+        "legacy_class": [
+            "Tank",
+            "Support"
+        ],
+        "resource": "Mana",
+        "range_type": "Melee",
+        "adaptive_type": "Magic"
+    },
+    {
+        "name": "Renata Glasc",
+        "roles": [
+            "Support"
+        ],
+        "release_year": "2022",
+        "legacy_class": [
+            "Support",
+            "Mage"
+        ],
+        "resource": "Mana",
+        "range_type": "Ranged",
+        "adaptive_type": "Magic"
+    },
+    {
+        "name": "Renekton",
+        "roles": [
+            "Top"
+        ],
+        "release_year": "2011",
+        "legacy_class": [
+            "Fighter",
+            "Tank"
+        ],
+        "resource": "Fury",
+        "range_type": "Melee",
+        "adaptive_type": "Physical"
+    },
+    {
+        "name": "Rengar",
+        "roles": [
+            "Jungle"
+        ],
+        "release_year": "2012",
+        "legacy_class": [
+            "Assassin",
+            "Fighter"
+        ],
+        "resource": "Ferocity",
+        "range_type": "Melee",
+        "adaptive_type": "Physical"
+    },
+    {
+        "name": "Riven",
+        "roles": [
+            "Top"
+        ],
+        "release_year": "2011",
+        "legacy_class": [
+            "Fighter",
+            "Assassin"
+        ],
+        "resource": "Manaless",
+        "range_type": "Melee",
+        "adaptive_type": "Physical"
+    },
+    {
+        "name": "Rumble",
+        "roles": [
+            "Top"
+        ],
+        "release_year": "2011",
+        "legacy_class": [
+            "Fighter",
+            "Mage"
+        ],
+        "resource": "Heat",
+        "range_type": "Melee",
+        "adaptive_type": "Magic"
+    },
+    {
+        "name": "Ryze",
+        "roles": [
+            "Middle"
+        ],
+        "release_year": "2009",
+        "legacy_class": [
+            "Mage",
+            "Fighter"
+        ],
+        "resource": "Mana",
+        "range_type": "Ranged",
+        "adaptive_type": "Magic"
+    },
+    {
+        "name": "Samira",
+        "roles": [
+            "Bottom"
+        ],
+        "release_year": "2020",
+        "legacy_class": [
+            "Marksman",
+            "Assassin"
+        ],
+        "resource": "Mana",
+        "range_type": "Ranged",
+        "adaptive_type": "Physical"
+    },
+    {
+        "name": "Sejuani",
+        "roles": [
+            "Jungle"
+        ],
+        "release_year": "2012",
+        "legacy_class": [
+            "Tank",
+            "Fighter"
+        ],
+        "resource": "Mana",
+        "range_type": "Melee",
+        "adaptive_type": "Magic"
+    },
+    {
+        "name": "Senna",
+        "roles": [
+            "Bottom",
+            "Support"
+        ],
+        "release_year": "2019",
+        "legacy_class": [
+            "Support",
+            "Marksman"
+        ],
+        "resource": "Mana",
+        "range_type": "Ranged",
+        "adaptive_type": "Physical"
+    },
+    {
+        "name": "Seraphine",
+        "roles": [
+            "Bottom",
+            "Support"
+        ],
+        "release_year": "2020",
+        "legacy_class": [
+            "Support",
+            "Mage"
+        ],
+        "resource": "Mana",
+        "range_type": "Ranged",
+        "adaptive_type": "Magic"
+    },
+    {
+        "name": "Sett",
+        "roles": [
+            "Top"
+        ],
+        "release_year": "2020",
+        "legacy_class": [
+            "Fighter",
+            "Tank"
+        ],
+        "resource": "Grit",
+        "range_type": "Melee",
+        "adaptive_type": "Physical"
+    },
+    {
+        "name": "Shaco",
+        "roles": [
+            "Jungle"
+        ],
+        "release_year": "2009",
+        "legacy_class": [
+            "Assassin"
+        ],
+        "resource": "Mana",
+        "range_type": "Melee",
+        "adaptive_type": "Physical"
+    },
+    {
+        "name": "Shen",
+        "roles": [
+            "Top"
+        ],
+        "release_year": "2010",
+        "legacy_class": [
+            "Tank"
+        ],
+        "resource": "Energy",
+        "range_type": "Melee",
+        "adaptive_type": "Physical"
+    },
+    {
+        "name": "Shyvana",
+        "roles": [
+            "Jungle"
+        ],
+        "release_year": "2011",
+        "legacy_class": [
+            "Fighter",
+            "Mage"
+        ],
+        "resource": "Fury",
+        "range_type": "Melee",
+        "adaptive_type": "Physical"
+    },
+    {
+        "name": "Singed",
+        "roles": [
+            "Top"
+        ],
+        "release_year": "2009",
+        "legacy_class": [
+            "Tank",
+            "Mage"
+        ],
+        "resource": "Mana",
+        "range_type": "Melee",
+        "adaptive_type": "Magic"
+    },
+    {
+        "name": "Sion",
+        "roles": [
+            "Top"
+        ],
+        "release_year": "2009",
+        "legacy_class": [
+            "Tank",
+            "Fighter"
+        ],
+        "resource": "Mana",
+        "range_type": "Melee",
+        "adaptive_type": "Physical"
+    },
+    {
+        "name": "Sivir",
+        "roles": [
+            "Bottom"
+        ],
+        "release_year": "2009",
+        "legacy_class": [
+            "Marksman"
+        ],
+        "resource": "Mana",
+        "range_type": "Ranged",
+        "adaptive_type": "Physical"
+    },
+    {
+        "name": "Skarner",
+        "roles": [
+            "Jungle",
+            "Top"
+        ],
+        "release_year": "2011",
+        "legacy_class": [
+            "Tank",
+            "Fighter"
+        ],
+        "resource": "Mana",
+        "range_type": "Melee",
+        "adaptive_type": "Physical"
+    },
+    {
+        "name": "Smolder",
+        "roles": [
+            "Bottom"
+        ],
+        "release_year": "2024",
+        "legacy_class": [
+            "Marksman",
+            "Mage"
+        ],
+        "resource": "Mana",
+        "range_type": "Ranged",
+        "adaptive_type": "Physical"
+    },
+    {
+        "name": "Sona",
+        "roles": [
+            "Support"
+        ],
+        "release_year": "2010",
+        "legacy_class": [
+            "Support",
+            "Mage"
+        ],
+        "resource": "Mana",
+        "range_type": "Ranged",
+        "adaptive_type": "Magic"
+    },
+    {
+        "name": "Soraka",
+        "roles": [
+            "Support"
+        ],
+        "release_year": "2009",
+        "legacy_class": [
+            "Support",
+            "Mage"
+        ],
+        "resource": "Mana",
+        "range_type": "Ranged",
+        "adaptive_type": "Magic"
+    },
+    {
+        "name": "Swain",
+        "roles": [
+            "Middle",
+            "Support"
+        ],
+        "release_year": "2010",
+        "legacy_class": [
+            "Mage",
+            "Support"
+        ],
+        "resource": "Mana",
+        "range_type": "Ranged",
+        "adaptive_type": "Magic"
+    },
+    {
+        "name": "Sylas",
+        "roles": [
+            "Middle"
+        ],
+        "release_year": "2019",
+        "legacy_class": [
+            "Mage",
+            "Assassin"
+        ],
+        "resource": "Mana",
+        "range_type": "Melee",
+        "adaptive_type": "Magic"
+    },
+    {
+        "name": "Syndra",
+        "roles": [
+            "Middle"
+        ],
+        "release_year": "2012",
+        "legacy_class": [
+            "Mage"
+        ],
+        "resource": "Mana",
+        "range_type": "Ranged",
+        "adaptive_type": "Magic"
+    },
+    {
+        "name": "Tahm Kench",
+        "roles": [
+            "Top"
+        ],
+        "release_year": "2015",
+        "legacy_class": [
+            "Tank",
+            "Support"
+        ],
+        "resource": "Mana",
+        "range_type": "Melee",
+        "adaptive_type": "Magic"
+    },
+    {
+        "name": "Taliyah",
+        "roles": [
+            "Jungle",
+            "Middle"
+        ],
+        "release_year": "2016",
+        "legacy_class": [
+            "Mage",
+            "Support"
+        ],
+        "resource": "Mana",
+        "range_type": "Ranged",
+        "adaptive_type": "Magic"
+    },
+    {
+        "name": "Talon",
+        "roles": [
+            "Middle"
+        ],
+        "release_year": "2011",
+        "legacy_class": [
+            "Assassin"
+        ],
+        "resource": "Mana",
+        "range_type": "Melee",
+        "adaptive_type": "Physical"
+    },
+    {
+        "name": "Taric",
+        "roles": [
+            "Support"
+        ],
+        "release_year": "2009",
+        "legacy_class": [
+            "Support",
+            "Tank"
+        ],
+        "resource": "Mana",
+        "range_type": "Melee",
+        "adaptive_type": "Physical"
+    },
+    {
+        "name": "Teemo",
+        "roles": [
+            "Top"
+        ],
+        "release_year": "2009",
+        "legacy_class": [
+            "Marksman",
+            "Mage"
+        ],
+        "resource": "Mana",
+        "range_type": "Ranged",
+        "adaptive_type": "Magic"
+    },
+    {
+        "name": "Thresh",
+        "roles": [
+            "Support"
+        ],
+        "release_year": "2013",
+        "legacy_class": [
+            "Support",
+            "Tank"
+        ],
+        "resource": "Mana",
+        "range_type": "Ranged",
+        "adaptive_type": "Physical"
+    },
+    {
+        "name": "Tristana",
+        "roles": [
+            "Bottom"
+        ],
+        "release_year": "2009",
+        "legacy_class": [
+            "Marksman",
+            "Assassin"
+        ],
+        "resource": "Mana",
+        "range_type": "Ranged",
+        "adaptive_type": "Physical"
+    },
+    {
+        "name": "Trundle",
+        "roles": [
+            "Top"
+        ],
+        "release_year": "2010",
+        "legacy_class": [
+            "Fighter",
+            "Tank"
+        ],
+        "resource": "Mana",
+        "range_type": "Melee",
+        "adaptive_type": "Physical"
+    },
+    {
+        "name": "Tryndamere",
+        "roles": [
+            "Top"
+        ],
+        "release_year": "2009",
+        "legacy_class": [
+            "Fighter",
+            "Assassin"
+        ],
+        "resource": "Fury",
+        "range_type": "Melee",
+        "adaptive_type": "Physical"
+    },
+    {
+        "name": "Twisted Fate",
+        "roles": [
+            "Middle",
+            "Bottom"
+        ],
+        "release_year": "2009",
+        "legacy_class": [
+            "Mage",
+            "Marksman"
+        ],
+        "resource": "Mana",
+        "range_type": "Ranged",
+        "adaptive_type": "Magic"
+    },
+    {
+        "name": "Twitch",
+        "roles": [
+            "Bottom"
+        ],
+        "release_year": "2009",
+        "legacy_class": [
+            "Marksman",
+            "Assassin"
+        ],
+        "resource": "Mana",
+        "range_type": "Ranged",
+        "adaptive_type": "Physical"
+    },
+    {
+        "name": "Udyr",
+        "roles": [
+            "Top",
+            "Jungle"
+        ],
+        "release_year": "2009",
+        "legacy_class": [
+            "Fighter",
+            "Tank"
+        ],
+        "resource": "Mana",
+        "range_type": "Melee",
+        "adaptive_type": "Physical"
+    },
+    {
+        "name": "Urgot",
+        "roles": [
+            "Top"
+        ],
+        "release_year": "2010",
+        "legacy_class": [
+            "Fighter",
+            "Tank"
+        ],
+        "resource": "Mana",
+        "range_type": "Ranged",
+        "adaptive_type": "Physical"
+    },
+    {
+        "name": "Varus",
+        "roles": [
+            "Bottom"
+        ],
+        "release_year": "2012",
+        "legacy_class": [
+            "Marksman",
+            "Mage"
+        ],
+        "resource": "Mana",
+        "range_type": "Ranged",
+        "adaptive_type": "Physical"
+    },
+    {
+        "name": "Vayne",
+        "roles": [
+            "Bottom"
+        ],
+        "release_year": "2011",
+        "legacy_class": [
+            "Marksman",
+            "Assassin"
+        ],
+        "resource": "Mana",
+        "range_type": "Ranged",
+        "adaptive_type": "Physical"
+    },
+    {
+        "name": "Veigar",
+        "roles": [
+            "Middle"
+        ],
+        "release_year": "2009",
+        "legacy_class": [
+            "Mage"
+        ],
+        "resource": "Mana",
+        "range_type": "Ranged",
+        "adaptive_type": "Magic"
+    },
+    {
+        "name": "Vel'Koz",
+        "roles": [
+            "Support"
+        ],
+        "release_year": "2014",
+        "legacy_class": [
+            "Mage",
+            "Support"
+        ],
+        "resource": "Mana",
+        "range_type": "Ranged",
+        "adaptive_type": "Magic"
+    },
+    {
+        "name": "Vex",
+        "roles": [
+            "Middle"
+        ],
+        "release_year": "2021",
+        "legacy_class": [
+            "Mage"
+        ],
+        "resource": "Mana",
+        "range_type": "Ranged",
+        "adaptive_type": "Magic"
+    },
+    {
+        "name": "Vi",
+        "roles": [
+            "Jungle"
+        ],
+        "release_year": "2012",
+        "legacy_class": [
+            "Fighter",
+            "Assassin"
+        ],
+        "resource": "Mana",
+        "range_type": "Melee",
+        "adaptive_type": "Physical"
+    },
+    {
+        "name": "Viego",
+        "roles": [
+            "Jungle"
+        ],
+        "release_year": "2021",
+        "legacy_class": [
+            "Fighter",
+            "Assassin"
+        ],
+        "resource": "Manaless",
+        "range_type": "Melee",
+        "adaptive_type": "Physical"
+    },
+    {
+        "name": "Viktor",
+        "roles": [
+            "Middle"
+        ],
+        "release_year": "2011",
+        "legacy_class": [
+            "Mage"
+        ],
+        "resource": "Mana",
+        "range_type": "Ranged",
+        "adaptive_type": "Magic"
+    },
+    {
+        "name": "Vladimir",
+        "roles": [
+            "Middle"
+        ],
+        "release_year": "2010",
+        "legacy_class": [
+            "Mage",
+            "Fighter"
+        ],
+        "resource": "Crimson Rush",
+        "range_type": "Ranged",
+        "adaptive_type": "Magic"
+    },
+    {
+        "name": "Volibear",
+        "roles": [
+            "Top"
+        ],
+        "release_year": "2011",
+        "legacy_class": [
+            "Fighter",
+            "Tank"
+        ],
+        "resource": "Mana",
+        "range_type": "Melee",
+        "adaptive_type": "Physical"
+    },
+    {
+        "name": "Warwick",
+        "roles": [
+            "Jungle"
+        ],
+        "release_year": "2009",
+        "legacy_class": [
+            "Fighter",
+            "Tank"
+        ],
+        "resource": "Mana",
+        "range_type": "Melee",
+        "adaptive_type": "Physical"
+    },
+    {
+        "name": "Wukong",
+        "roles": [
+            "Jungle"
+        ],
+        "release_year": "2011",
+        "legacy_class": [
+            "Fighter",
+            "Tank"
+        ],
+        "resource": "Mana",
+        "range_type": "Melee",
+        "adaptive_type": "Physical"
+    },
+    {
+        "name": "Xayah",
+        "roles": [
+            "Bottom"
+        ],
+        "release_year": "2017",
+        "legacy_class": [
+            "Marksman"
+        ],
+        "resource": "Mana",
+        "range_type": "Ranged",
+        "adaptive_type": "Physical"
+    },
+    {
+        "name": "Xerath",
+        "roles": [
+            "Middle",
+            "Support"
+        ],
+        "release_year": "2011",
+        "legacy_class": [
+            "Mage",
+            "Support"
+        ],
+        "resource": "Mana",
+        "range_type": "Ranged",
+        "adaptive_type": "Magic"
+    },
+    {
+        "name": "Xin Zhao",
+        "roles": [
+            "Jungle"
+        ],
+        "release_year": "2010",
+        "legacy_class": [
+            "Fighter",
+            "Tank"
+        ],
+        "resource": "Mana",
+        "range_type": "Melee",
+        "adaptive_type": "Physical"
+    },
+    {
+        "name": "Yasuo",
+        "roles": [
+            "Top",
+            "Middle",
+            "Bottom"
+        ],
+        "release_year": "2013",
+        "legacy_class": [
+            "Fighter",
+            "Assassin"
+        ],
+        "resource": "Flow",
+        "range_type": "Melee",
+        "adaptive_type": "Physical"
+    },
+    {
+        "name": "Yone",
+        "roles": [
+            "Top",
+            "Middle"
+        ],
+        "release_year": "2020",
+        "legacy_class": [
+            "Fighter",
+            "Assassin"
+        ],
+        "resource": "Flow",
+        "range_type": "Melee",
+        "adaptive_type": "Physical"
+    },
+    {
+        "name": "Yorick",
+        "roles": [
+            "Top"
+        ],
+        "release_year": "2011",
+        "legacy_class": [
+            "Fighter",
+            "Tank"
+        ],
+        "resource": "Mana",
+        "range_type": "Melee",
+        "adaptive_type": "Physical"
+    },
+    {
+        "name": "Yunara",
+        "roles": [
+            "Bottom"
+        ],
+        "release_year": "2025",
+        "legacy_class": [
+            "Marksman"
+        ],
+        "resource": "Mana",
+        "range_type": "Ranged",
+        "adaptive_type": "Physical"
+    },
+    {
+        "name": "Yuumi",
+        "roles": [
+            "Support"
+        ],
+        "release_year": "2019",
+        "legacy_class": [
+            "Support",
+            "Mage"
+        ],
+        "resource": "Mana",
+        "range_type": "Ranged",
+        "adaptive_type": "Magic"
+    },
+    {
+        "name": "Zaahen",
+        "roles": [
+            "Top",
+            "Jungle"
+        ],
+        "release_year": "2025",
+        "legacy_class": [
+            "Fighter",
+            "Assassin"
+        ],
+        "resource": "Mana",
+        "range_type": "Melee",
+        "adaptive_type": "Physical"
+    },
+    {
+        "name": "Zac",
+        "roles": [
+            "Jungle"
+        ],
+        "release_year": "2013",
+        "legacy_class": [
+            "Tank",
+            "Fighter"
+        ],
+        "resource": "Health costs",
+        "range_type": "Melee",
+        "adaptive_type": "Magic"
+    },
+    {
+        "name": "Zed",
+        "roles": [
+            "Middle"
+        ],
+        "release_year": "2012",
+        "legacy_class": [
+            "Assassin"
+        ],
+        "resource": "Energy",
+        "range_type": "Melee",
+        "adaptive_type": "Physical"
+    },
+    {
+        "name": "Zeri",
+        "roles": [
+            "Bottom"
+        ],
+        "release_year": "2022",
+        "legacy_class": [
+            "Marksman"
+        ],
+        "resource": "Mana",
+        "range_type": "Ranged",
+        "adaptive_type": "Physical"
+    },
+    {
+        "name": "Ziggs",
+        "roles": [
+            "Bottom"
+        ],
+        "release_year": "2012",
+        "legacy_class": [
+            "Mage"
+        ],
+        "resource": "Mana",
+        "range_type": "Ranged",
+        "adaptive_type": "Magic"
+    },
+    {
+        "name": "Zilean",
+        "roles": [
+            "Support"
+        ],
+        "release_year": "2009",
+        "legacy_class": [
+            "Support",
+            "Mage"
+        ],
+        "resource": "Mana",
+        "range_type": "Ranged",
+        "adaptive_type": "Magic"
+    },
+    {
+        "name": "Zoe",
+        "roles": [
+            "Middle"
+        ],
+        "release_year": "2017",
+        "legacy_class": [
+            "Mage",
+            "Support"
+        ],
+        "resource": "Mana",
+        "range_type": "Ranged",
+        "adaptive_type": "Magic"
+    },
+    {
+        "name": "Zyra",
+        "roles": [
+            "Support"
+        ],
+        "release_year": "2012",
+        "legacy_class": [
+            "Mage",
+            "Support"
+        ],
+        "resource": "Mana",
+        "range_type": "Ranged",
+        "adaptive_type": "Magic"
+    }
+]

@@ -1,0 +1,518 @@
+[
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Aatrox"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Ahri"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Akali"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Akshan"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Alistar"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Ambessa"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Amumu"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Anivia"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Annie"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Aphelios"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Ashe"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Aurelion_Sol"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Aurora"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Azir"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Bard"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Bel%27Veth"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Blitzcrank"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Brand"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Braum"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Briar"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Caitlyn"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Camille"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Cassiopeia"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Cho%27Gath"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Corki"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Darius"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Diana"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Dr._Mundo"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Draven"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Ekko"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Elise"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Evelynn"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Ezreal"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Fiddlesticks"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Fiora"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Fizz"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Galio"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Gangplank"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Garen"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Gnar"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Gragas"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Graves"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Gwen"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Hecarim"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Heimerdinger"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Hwei"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Illaoi"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Irelia"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Ivern"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Janna"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Jarvan_IV"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Jax"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Jayce"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Jhin"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Jinx"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/K%27Sante"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Kai%27Sa"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Kalista"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Karma"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Karthus"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Kassadin"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Katarina"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Kayle"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Kayn"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Kennen"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Kha%27Zix"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Kindred"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Kled"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Kog%27Maw"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/LeBlanc"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Lee_Sin"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Leona"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Lillia"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Lissandra"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Lucian"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Lulu"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Lux"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Malphite"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Malzahar"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Maokai"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Master_Yi"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Mel"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Milio"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Miss_Fortune"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Mordekaiser"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Morgana"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Naafiri"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Nami"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Nasus"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Nautilus"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Neeko"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Nidalee"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Nilah"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Nocturne"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Nunu_%26_Willump"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Olaf"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Orianna"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Ornn"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Pantheon"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Poppy"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Pyke"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Qiyana"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Quinn"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Rakan"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Rammus"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Rek%27Sai"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Rell"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Renata_Glasc"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Renekton"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Rengar"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Riven"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Rumble"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Ryze"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Samira"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Sejuani"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Senna"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Seraphine"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Sett"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Shaco"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Shen"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Shyvana"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Singed"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Sion"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Sivir"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Skarner"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Smolder"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Sona"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Soraka"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Swain"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Sylas"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Syndra"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Tahm_Kench"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Taliyah"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Talon"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Taric"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Teemo"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Thresh"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Tristana"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Trundle"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Tryndamere"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Twisted_Fate"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Twitch"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Udyr"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Urgot"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Varus"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Vayne"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Veigar"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Vel%27Koz"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Vex"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Vi"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Viego"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Viktor"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Vladimir"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Volibear"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Warwick"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Wukong"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Xayah"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Xerath"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Xin_Zhao"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Yasuo"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Yone"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Yorick"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Yunara"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Yuumi"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Zaahen"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Zac"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Zed"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Zeri"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Ziggs"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Zilean"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Zoe"
+    },
+    {
+        "url": "https://wiki.leagueoflegends.com/en-us/Zyra"
+    }
+]
