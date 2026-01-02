@@ -77,24 +77,29 @@ async def start(interaction: discord.Interaction):
 @bot.tree.command(name="guess", description="Đoán tướng")
 @app_commands.autocomplete(name=champion_autocomplete)
 async def guess(interaction: discord.Interaction, name: str):
+    await interaction.response.defer()
+
     user_id = interaction.user.id
 
     if user_id not in sessions:
-        await interaction.response.send_message(
+        await interaction.followup.send(
             "Chưa bắt đầu game. Dùng `/loldle_start`",
             ephemeral=True
         )
         return
 
     session = sessions[user_id]
-    session["tries"] += 1
 
-    answer = session["answer"]
     guess = CHAMP_BY_NAME.get(name.lower())
-
     if not guess:
-        await interaction.response.send_message("Không tìm thấy tướng")
+        await interaction.followup.send(
+            "Không tìm thấy tướng",
+            ephemeral=True
+        )
         return
+
+    session["tries"] += 1
+    answer = session["answer"]
 
     year_guess = convert_to_year(guess["release_date"])
     year_answer = convert_to_year(answer["release_date"])
@@ -105,7 +110,7 @@ async def guess(interaction: discord.Interaction, name: str):
     # WIN
     if guess["championName"] == answer["championName"]:
         del sessions[user_id]
-        embed.title = f"Onii-chan giỏi quá!!!, đáp án là **{answer['championName']}"
+        embed.title = f"Onii-chan giỏi quá!!!, đáp án là **{answer['championName']}**"
         embed.color = discord.Color.green()
         await interaction.followup.send(
             embed=embed,
@@ -128,7 +133,7 @@ async def guess(interaction: discord.Interaction, name: str):
         )
         return
 
-    await interaction.response.send_message(
+    await interaction.followup.send(
         embed=embed,
         view=GameActionView(
             interaction.user.id,
