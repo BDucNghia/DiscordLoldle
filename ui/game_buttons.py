@@ -68,18 +68,3 @@ class GameActionView(View):
                 self.start_new_game_callback
             )
         )
-
-    @discord.ui.button(
-        label="🔁 New game",
-        style=discord.ButtonStyle.secondary
-    )
-    async def new_game(
-        self,
-        interaction: discord.Interaction,
-        button: Button
-    ):
-        # kết thúc game cũ nếu còn
-        self.sessions.pop(self.user_id, None)
-
-        # gọi callback tạo game mới
-        await self.start_new_game_callback(interaction)
