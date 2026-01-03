@@ -1,5 +1,5 @@
 from datetime import date
-from timezone import today_vn_str
+from utils.timezone import today_vn_str
 import hashlib
 
 def get_today_str():
