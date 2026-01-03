@@ -9,7 +9,7 @@ from ui.embeds import build_wordle_embed
 from utils.helpers import convert_to_year
 from utils.daily import  get_daily_champion, get_today_str
 from ui.game_buttons import GameActionView, GameEndView
-from db.rank_db import save_rank, init_db
+from db.rank_db import save_rank, init_db, has_played_today
 from ui.rank_view import RankView
 from ui.rank_embed import build_rank_embed
 
@@ -51,6 +51,13 @@ async def start_new_game(interaction: discord.Interaction):
     today = get_today_str()
 
     session = sessions.get(user_id)
+
+    if has_played_today(user_id, today):
+        await interaction.response.send_message(
+            "❌ Chơi ít thôi, mai chơi tiếp",
+            ephemeral=True
+        )
+        return
 
     if session and session["date"] == today:
         await interaction.response.send_message(

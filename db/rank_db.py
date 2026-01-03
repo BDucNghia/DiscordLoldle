@@ -37,3 +37,11 @@ def get_rank_by_date(date):
     ORDER BY finished DESC, tries ASC
     """, (date,))
     return cur.fetchall()
+
+def has_played_today(user_id, date):
+    cur.execute("""
+    SELECT 1 FROM daily_rank
+    WHERE user_id = ? AND date = ?
+    """, (user_id, date))
+    return cur.fetchone() is not None
+
