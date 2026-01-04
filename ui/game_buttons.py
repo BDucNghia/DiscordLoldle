@@ -66,5 +66,6 @@ class GameActionView(View):
             view=GameEndView(
                 interaction.user.id,
                 self.start_new_game_callback
-            )
+            ),
+            ephemeral=True
         )

@@ -108,7 +108,15 @@ async def guess(interaction: discord.Interaction, name: str):
     await interaction.response.defer()
 
     user_id = interaction.user.id
-    session = sessions[user_id]
+    session = sessions.get(user_id)
+
+    if not session:
+        await interaction.followup.send(
+            "Chưa bắt đầu game. Dùng `/loldle_start`",
+            ephemeral=True
+        )
+        return
+
     if session["finished"]:
         await interaction.followup.send(
             "❌ Chơi ít thôi, mai chơi tiếp",
@@ -143,31 +151,30 @@ async def guess(interaction: discord.Interaction, name: str):
     # WIN
     if guess["championName"] == answer["championName"]:
         session["finished"] = True
-        embed.title = f"🎉 Chính xác! Đáp án là **{answer['championName']}**"
+        save_rank(user_id, interaction.user.display_name,
+                  session["date"], session["tries"], 1)
+        embed.title = f"🎉 Giỏi quá onii-chan!"
         embed.color = discord.Color.green()
 
         await interaction.followup.send(
+            f"Đáp án là **{answer['championName']}**",
             embed=embed,
-            view=GameEndView(interaction.user.id, start_new_game)
+            view=GameEndView(interaction.user.id, start_new_game),
+            ephemeral=True
         )
         return
 
     # LOSE
     if session["tries"] >= 10:
         session["finished"] = True
+        save_rank(user_id, interaction.user.display_name,
+                  session["date"], session["tries"], 1)
         await interaction.followup.send(
             f"🐔 Gà điên, đáp án là **{answer['championName']}**",
-            view=GameEndView(interaction.user.id, start_new_game)
+            view=GameEndView(interaction.user.id, start_new_game),
+            emphemeral=True
         )
         return
-
-    save_rank(
-        user_id=interaction.user.id,
-        username=interaction.user.display_name,
-        date=session["date"],
-        tries=session["tries"],
-        finished=1
-    )
 
     await interaction.followup.send(
         embed=embed,
@@ -175,9 +182,8 @@ async def guess(interaction: discord.Interaction, name: str):
             interaction.user.id,
             sessions,
             start_new_game
-        )
+        ),
+        ephemeral=True
     )
-
-
 
 bot.run(TOKEN)
