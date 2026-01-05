@@ -105,7 +105,7 @@ async def rank(interaction: discord.Interaction):
 @bot.tree.command(name="guess", description="Đoán tướng")
 @app_commands.autocomplete(name=champion_autocomplete)
 async def guess(interaction: discord.Interaction, name: str):
-    await interaction.response.defer()
+    await interaction.response.defer(ephemeral=True)
 
     user_id = interaction.user.id
     session = sessions.get(user_id)
